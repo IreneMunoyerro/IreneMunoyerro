@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **irenehdezm@gmail.com**
+- 📫 Where to reach me: **irenehdezm@gmail.com**
 
-- ⚡ Interested in **cultural exchange, languages and psychology!**
+- ⚡ Interested in **languages, cultural exchange and psychology!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
