@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IreneMunoyerro&label=Profile%20views&color=0e75b6&style=flat" alt="IreneMunoyerro" /> </p>
 
-- 👩🏻‍💻 I'm studying a Full Stack Bootcamp at [Neoland](https://www.neoland.es/)
+- 👩🏻‍💻 I'm studying a Front-end web Development
 
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
